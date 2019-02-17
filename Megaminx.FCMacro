@@ -17,7 +17,7 @@
 *   menu you can display some help text, reset the Megaminx to its        *
 *   initial (solved) state, undo the last rotation (and remove it from    *
 *   the history), copy the history to the clipboard, step through the     *
-*   history, ramdomise the Megaminx, and enable or disable the echoing of *
+*   history, randomise the Megaminx, and enable or disable the echoing of *
 *   rotations to the Report View. All of these functions can also be      *
 *   invoked by typing suitable commands into the Python console window.   *
 *                                                                         *
