@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Copyright © 2019 Richard P. Parkins, M. A.
+# Released under the GPL
 """
 ***************************************************************************
 *                                                                         *
@@ -26,32 +28,26 @@
 *                                                                         *
 ***************************************************************************
 *                                                                         *
-*   Copyright © 2019 Richard P. Parkins, M. A.                            *
-*                                                                         *
 *   This file is a supplement to the FreeCAD CAx development system.      *
 *                                                                         *
 *   This program is free software; you can redistribute it and/or modify  *
-*   it under the terms of the GNU Lesser General Public License (LGPL)    *
-*   as published by the Free Software Foundation; either version 2 of     *
-*   the License, or (at your option) any later version.                   *
-*   for detail see the LICENCE text file.                                 *
+*   it under the terms of the GNU General Public License (GPL) as         *
+*   as published by the Free Software Foundation; either version 3 of     *
+*   the License, or (at your option) any later version. For details or to *
+*   obtain a copy see http://www.gnu.org/licenses/gpl.html or write to    *                                     *   Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,      *
+*   Boston, MA  02110-1335 USA                                            *
 *                                                                         *
 *   This software is distributed in the hope that it will be useful,      *
 *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
 *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
-*   GNU Library General Public License for more details.                  *
-*                                                                         *
-*   You should have received a copy of the GNU Library General Public     *
-*   License along with this macro; if not, write to the Free Software     *
-*   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  *
-*   USA                                                                   *
+*   GNU General Public License for more details.                          *
 *                                                                         *
 ***************************************************************************
 """
-__title__   = "Rubik_cube"
+__title__   = "Megaminx"
 __author__  = "Aleph0"
 __version__ = "00.06"
-__date__    = "10/02/2019"
+__date__    = "17/02/2019"
 __Comment__ = "Virtual Megaminx"
 __Wiki__ = "http://www.freecadweb.org/wiki/index.php?title=Macro_Megaminx"
 __Help__ = "see first few lines of macro text"
@@ -68,7 +64,6 @@ __Requires__ = "freecad 0.17"
 #Coin version: 3.1.3
 #OCC version: 7.2.0
 #Locale: English/UnitedKingdom (en_GB)
-# Copyright © 2019 Richard P. Parkins, M. A.
 
 # To show a function's documentation string, type
 ## print(function.__doc__)
